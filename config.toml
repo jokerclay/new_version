@@ -39,8 +39,3 @@ sharethis = ""
     tabWidth = 4
 
 
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.87.0'
